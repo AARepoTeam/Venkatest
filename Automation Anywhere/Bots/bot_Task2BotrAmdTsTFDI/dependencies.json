@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\Task2BotrAmdTsTFDI","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\Task2BotrAmdTsTFDI","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\ChildBotrAmdTsTFDI"]}
